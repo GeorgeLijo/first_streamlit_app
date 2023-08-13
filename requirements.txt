@@ -1,6 +1,4 @@
 # requirements.txt
 
 
-pipenv update streamlit
-
-
+snowflake-connector-python
